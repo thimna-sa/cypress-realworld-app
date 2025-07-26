@@ -22,9 +22,9 @@ describe('Real World APP', () => {
   it('register - Sucess', () => {
     cy.visit('http://localhost:3000/')
     cy.get('[data-test="signup"]').click()
-    cy.get('#firstName').type('Maia10')
-    cy.get('#lastName').type('Monteiro')
-    cy.get('#username').type('Mai')
+    cy.get('#firstName').type('Benjamin')
+    cy.get('#lastName').type('Santos')
+    cy.get('#username').type('Ben')
     cy.get('#password').type('s3cret')
     cy.get('#confirmPassword').type('s3cret')
     cy.get('[data-test="signup-submit"]').click()
