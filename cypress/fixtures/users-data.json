@@ -1,0 +1,35 @@
+{
+      "userSucess": {
+        "username": "Dina20",
+        "password": "s3cret"
+      } ,
+      "userFail": {
+        "username": "Dina",
+        "password": "12354"
+      },
+
+       "userExtrato" : {
+        "username": "Couto_Maia",
+        "password": "123456"
+
+      } ,
+
+      "usertransactionFail": {
+        "username": "Dina20",
+        "password": "12354"
+   
+      },
+
+      "registerDados": {
+        "firsNameRegist" : "Benjamin",
+        "lastNameRegist": "Santos",
+        "userNameRegist": "Ben",
+        "passwordRegist": "s3cret",
+        "confirmRegist": "s3cret"
+
+      }
+      
+    }
+
+
+
