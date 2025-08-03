@@ -27,7 +27,7 @@ describe('Real World APP', () => {
 
   })
 
-  it.only('register - Sucess', () => {
+  it('register - Sucess', () => {
     registerPage.accessRegisterPage()
     registerPage.registerNewUser(usersData.registerDados.firsNameRegist, usersData.registerDados.lastNameRegist, usersData.registerDados.userNameRegist, usersData.registerDados.passwordRegist, usersData.registerDados.confirmRegist)
     
@@ -35,10 +35,18 @@ describe('Real World APP', () => {
 
 })
 
- it.only('register - incomplet', () => {
+  it.only('register - Confirm', ()=> {
+    loginPage.accessLoginPage()
+    loginPage.loginOfUser(usersData.resgiterConfirm.username, usersData.resgiterConfirm.password)
+    registerPage.registerConfirm()
+
+/// caso tela fique branca reabra site para que o cypress consiga realizar login ** BUG JÁ NOTIFICADO***
+})
+
+  it('register - incomplet', () => {
     registerPage.accessRegisterPage()
     registerPage.registerFail(usersData.registerDados.firsNameRegist, usersData.registerDados.lastNameRegist, usersData.registerDados.passwordRegist, usersData.registerDados.confirmRegist)
-    
+   
 
 
 })

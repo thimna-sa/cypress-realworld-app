@@ -9,16 +9,12 @@
       },
 
        "userExtrato" : {
-        "username": "Couto_Maia",
-        "password": "123456"
+        "username": "Ben",
+        "password": "s3cret"
 
       } ,
 
-      "usertransactionFail": {
-        "username": "Dina20",
-        "password": "12354"
-   
-      },
+
 
       "registerDados": {
         "firsNameRegist" : "Benjamin",
@@ -27,6 +23,18 @@
         "passwordRegist": "s3cret",
         "confirmRegist": "s3cret"
 
+      },
+      
+      "TransactionFail": {
+        "username": "Heath93",
+        "password": "s3cret"
+      },
+
+
+
+      "resgiterConfirm": {
+        "username": "Ben",
+        "password": "s3cret"
       }
       
     }

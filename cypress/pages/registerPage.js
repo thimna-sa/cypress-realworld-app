@@ -6,6 +6,12 @@ class RegisterPage{
              userNameRegist: "[name='username']",
              passwordRegist: "[name='password']",
              confirmRegist: "[name='confirmPassword']",
+             Buttomconfirmlogin: "[data-test='user-onboarding-next']",
+             BankName:"('#bankaccount-bankName-input')",
+             RoutingNumber: "('#bankaccount-routingNumber-input')",
+             AccountNumber:"('#bankaccount-accountNumber-input')",
+             ButttomSave: '[data-test="bankaccount-submit"]', 
+
 
         }
         return selectors
@@ -23,6 +29,16 @@ class RegisterPage{
     cy.get(this.selectoList().passwordRegist).type(password)
     cy.get(this.selectoList().confirmRegist).type(passwordconfirm)
     cy.get('[data-test="signup-submit"]').click()
+    }
+
+    registerConfirm() {
+        cy.get(this.selectoList().Buttomconfirmlogin).click()
+        cy.get('#bankaccount-bankName-input').click().type('Benjamin')
+        cy.get('#bankaccount-routingNumber-input').click().type('987845678')
+        cy.get('#bankaccount-accountNumber-input').click().type('784512326')
+        cy.get('[data-test="bankaccount-submit"]').click()
+
+
     }
 
     registerFail(firstName, lastName, password, passwordconfirm ) {

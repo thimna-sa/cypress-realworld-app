@@ -14,18 +14,14 @@ describe('Real World APP', () => {
         transactionaPage.transactionSucess()
  })
 
- it.skip('Transaction - Fail', () => {
+ it('Transaction - Fail', () => {
     loginPage.accessLoginPage()
-    loginPage.loginOfUserFail(usersData.userFail.username, usersData.userFail.password)
-  
+    loginPage.loginOfUser(usersData.TransactionFail.username, usersData.TransactionFail.password)
+    transactionaPage.transactionFail()
+   
 
 
-    cy.get(".MuiButton-contained").click()
-    cy.get(".MuiFormControl-marginDense").click().type('Dina20')
-    cy.get('.css-konndc-MuiListItemText-root').eq(1).click()
-    cy.get("[name='amount']").click().type('120')
-    cy.get('#transaction-create-description-input').click().type('Pagamento')
-    cy.get('[data-test="transaction-create-submit-payment"]').click()
+
 
 
 })

@@ -26,7 +26,7 @@
       "phoneNumber": "410-786-2112",
       "avatar": "https://avatars.dicebear.com/api/human/GjWovtg2hr.svg",
       "defaultPrivacyLevel": "private",
-      "balance": 117026,
+      "balance": 93026,
       "createdAt": "2023-04-23T13:52:10.979Z",
       "modifiedAt": "2024-03-07T09:07:46.709Z"
     },
@@ -41,7 +41,7 @@
       "phoneNumber": "887-309-1593",
       "avatar": "https://avatars.dicebear.com/api/human/_XblMqbuoP.svg",
       "defaultPrivacyLevel": "contacts",
-      "balance": 134880,
+      "balance": 158880,
       "createdAt": "2023-05-21T05:01:54.594Z",
       "modifiedAt": "2024-03-07T14:11:52.161Z"
     },
@@ -74,94 +74,6 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
-    },
-    {
-      "id": "hBYhJTfug",
-      "uuid": "d951ff92-7fc1-495f-aa5c-8c3e93665ae2",
-      "firstName": "Maia_j",
-      "lastName": "Coutos",
-      "username": "Couto_Maia",
-      "password": "$2a$10$9JjzVtdE0cVsX/hXQL/PGOh2U3RhvvnOLaatlthqkRJCDzdwn3RGK",
-      "balance": 0,
-      "createdAt": "2025-07-31T23:07:49.134Z",
-      "modifiedAt": "2025-07-31T23:07:49.134Z"
-    },
-    {
-      "id": "tIiIkowcL",
-      "uuid": "fea0218d-22e9-498f-898d-fed5bd6beba2",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$0TGl7j1rNELdVrPeZrzoaezDbNZmarfQ42segTkm8ztDmONnULpAy",
-      "balance": 0,
-      "createdAt": "2025-07-31T23:13:06.208Z",
-      "modifiedAt": "2025-07-31T23:13:06.208Z"
-    },
-    {
-      "id": "HrqFbdHmp",
-      "uuid": "b436ab7a-2127-407e-a084-27d06fd904ab",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$5ssZIAbOvjny6lyzHIG1l.U2HWeoAbMNdlP4YGP6x9qcw90FEfIn2",
-      "balance": 0,
-      "createdAt": "2025-08-01T00:18:20.721Z",
-      "modifiedAt": "2025-08-01T00:18:20.721Z"
-    },
-    {
-      "id": "nZDoLsk0i",
-      "uuid": "4f70afd7-c710-4480-bd35-4accea4a5748",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$nMnzsItjLaGRC5gqBIyup.gd6I9OYi99ZMOV7X1V/D7Z8ncLRRtbu",
-      "balance": 0,
-      "createdAt": "2025-08-01T00:27:21.358Z",
-      "modifiedAt": "2025-08-01T00:27:21.358Z"
-    },
-    {
-      "id": "EnzZuHFsR",
-      "uuid": "89fe03b3-fc95-45dc-85f0-3ab8f26b2886",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$fSv1nHO84A1hHINJAvSMHuVw6PVtqGSyYnWAy4Jf72Kv/1PhOX9fm",
-      "balance": 0,
-      "createdAt": "2025-08-01T00:43:05.612Z",
-      "modifiedAt": "2025-08-01T00:43:05.612Z"
-    },
-    {
-      "id": "h-oe08YYC",
-      "uuid": "c318035f-f243-409c-a865-c67c873bd87a",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$9wvPtBeeFERldsYrhwvTFONTSQ6v4zJM1ZQzFO7BjERtQ9/yND.ZC",
-      "balance": 0,
-      "createdAt": "2025-08-01T02:03:53.106Z",
-      "modifiedAt": "2025-08-01T02:03:53.106Z"
-    },
-    {
-      "id": "e3PSSl3VC",
-      "uuid": "80dcef1d-9b98-47d4-aac6-7e68dc8e1567",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$EoTPHDJKk/vTPPbYO7PU0uOvSZxN/mPg/oWiUuZlcR9YtBy.qaihO",
-      "balance": 0,
-      "createdAt": "2025-08-01T02:05:24.922Z",
-      "modifiedAt": "2025-08-01T02:05:24.922Z"
-    },
-    {
-      "id": "OMQK02sT6",
-      "uuid": "bf2bbf00-9ac0-407e-a2c3-3858d402f741",
-      "firstName": "Benjamin",
-      "lastName": "Santos",
-      "username": "Ben",
-      "password": "$2a$10$LzZnfjEC4el/Apvzxje0c.jQB0fc9cxuvRQC4Hqa9GoQJeG32Jwdm",
-      "balance": 0,
-      "createdAt": "2025-08-01T02:06:41.278Z",
-      "modifiedAt": "2025-08-01T02:06:41.278Z"
     }
   ],
   "contacts": [
@@ -341,17 +253,6 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
-    },
-    {
-      "id": "v6Hpdlriq",
-      "uuid": "ae6642a6-f9be-4713-b221-588b075929c2",
-      "userId": "hBYhJTfug",
-      "bankName": "Maia Couto",
-      "accountNumber": "123654444",
-      "routingNumber": "123654444",
-      "isDeleted": false,
-      "createdAt": "2025-07-31T23:10:10.321Z",
-      "modifiedAt": "2025-07-31T23:10:10.321Z"
     }
   ],
   "transactions": [
@@ -9954,30 +9855,6 @@
       "requestResolvedAt": "",
       "createdAt": "2023-11-10T07:15:28.127Z",
       "modifiedAt": "2024-03-07T21:58:09.668Z"
-    },
-    {
-      "id": "6dhTzI4oK",
-      "uuid": "7a171736-2ae2-44d7-8ce0-392bcbb0088f",
-      "amount": 12000,
-      "description": "Pagamento",
-      "receiverId": "GjWovtg2hr",
-      "senderId": "_XblMqbuoP",
-      "privacyLevel": "contacts",
-      "status": "complete",
-      "createdAt": "2025-07-31T23:05:44.508Z",
-      "modifiedAt": "2025-07-31T23:05:44.508Z"
-    },
-    {
-      "id": "gS_cxqjJw",
-      "uuid": "da469a5b-da33-4c7c-98b7-94fe44df5ac4",
-      "amount": 12000,
-      "description": "Pagamento",
-      "receiverId": "GjWovtg2hr",
-      "senderId": "_XblMqbuoP",
-      "privacyLevel": "contacts",
-      "status": "complete",
-      "createdAt": "2025-07-31T23:11:22.981Z",
-      "modifiedAt": "2025-07-31T23:11:22.981Z"
     }
   ],
   "likes": [
@@ -10554,26 +10431,6 @@
       "isRead": false,
       "createdAt": "2024-02-01T18:53:45.699Z",
       "modifiedAt": "2024-03-07T17:13:52.110Z"
-    },
-    {
-      "id": "asBihFSV47",
-      "uuid": "806961fc-2998-4ca3-b047-fbcf3f06c295",
-      "userId": "GjWovtg2hr",
-      "transactionId": "6dhTzI4oK",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2025-07-31T23:05:44.564Z",
-      "modifiedAt": "2025-07-31T23:05:44.564Z"
-    },
-    {
-      "id": "qX2WbKsgS_",
-      "uuid": "c8cf1985-ce1c-43c6-8c54-15d67028fa8d",
-      "userId": "GjWovtg2hr",
-      "transactionId": "gS_cxqjJw",
-      "status": "received",
-      "isRead": false,
-      "createdAt": "2025-07-31T23:11:23.003Z",
-      "modifiedAt": "2025-07-31T23:11:23.003Z"
     }
   ],
   "banktransfers": [
